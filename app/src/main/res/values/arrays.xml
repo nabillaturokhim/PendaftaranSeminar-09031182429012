@@ -1,0 +1,23 @@
+<resources>
+    <string-array name="fakultas_array">
+        <item>Fakultas Teknik</item>
+        <item>Fakultas Ilmu Komputer</item>
+        <item>Fakultas Ekonomi</item>
+        <item>Fakultas Keguruan</item>
+    </string-array>
+
+    <string-array name="bayar_array">
+        <item>Transfer Bank</item>
+        <item>Virtual Account</item>
+        <item>QRIS</item>
+        <item>E-Wallet</item>
+    </string-array>
+
+    <string-array name="jumlah_peserta_array">
+        <item>1 Orang</item>
+        <item>2 Orang</item>
+        <item>3 Orang</item>
+        <item>4 Orang</item>
+        <item>5 Orang</item>
+    </string-array>
+</resources>
